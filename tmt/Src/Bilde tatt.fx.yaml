@@ -30,7 +30,7 @@
 
     Image1 As image:
         Height: =414
-        Image: =First(CameraImage).Url
+        Image: =CameraImage
         Width: =480
         X: =80
         Y: =180
