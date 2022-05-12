@@ -2,21 +2,22 @@
   "ComponentIndexes": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Camera2": 41,
-    "Canvas2": 39,
-    "DataCard2": 40,
-    "Icon3": 42,
-    "Label1": 5,
-    "Label2": 6,
-    "Label3": 35,
-    "LblAppName3": 38,
-    "Rectangle1": 7,
-    "RectQuickActionBar3": 37,
-    "Screen3": 36,
+    "Camera2": 14,
+    "Canvas2": 11,
+    "DataCard2": 12,
+    "Icon3": 13,
+    "Label1": 6,
+    "Label2": 5,
+    "Label3": 7,
+    "Label3_1": 15,
+    "LblAppName3": 10,
+    "Rectangle1": 4,
+    "RectQuickActionBar3": 9,
+    "Screen3": 8,
     "Velkomstskjerm": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/12/2022 12:26:29",
+  "HeaderLastSavedDateTimeUTC": "05/12/2022 12:31:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "3ad43716-19ea-421f-89ed-0ebf6435d145": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/a4a43e367c8741209babba4bc32e6bb7\""
@@ -50,6 +51,7 @@
     "Label1": 2,
     "Label2": 1,
     "Label3": 3,
+    "Label3_1": 3,
     "LblAppName3": 0,
     "Rectangle1": 0,
     "RectQuickActionBar3": 0,
@@ -61,11 +63,17 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0445795,
+    "AnalysisLoadTime": 0.1143464,
     "ControlCount": {
-      "screen": 1
+      "camera": 1,
+      "dataCard": 1,
+      "fluidGrid": 1,
+      "icon": 1,
+      "label": 5,
+      "rectangle": 2,
+      "screen": 2
     },
-    "DeserializationLoadTime": 1.1363208,
+    "DeserializationLoadTime": 1.4254886,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true

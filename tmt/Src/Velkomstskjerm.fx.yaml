@@ -38,3 +38,14 @@ Velkomstskjerm As screen:
         Y: =216
         ZIndex: =4
 
+    Label3_1 As label:
+        Height: =72
+        Size: =21
+        Text: |-
+            ="2. Test
+            "
+        Width: =560
+        X: =40
+        Y: =302
+        ZIndex: =5
+
