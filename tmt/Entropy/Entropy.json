@@ -22,7 +22,7 @@
     "Velkomstskjerm": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/12/2022 12:48:15",
+  "HeaderLastSavedDateTimeUTC": "05/12/2022 12:55:56",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "3ad43716-19ea-421f-89ed-0ebf6435d145": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/a4a43e367c8741209babba4bc32e6bb7\""
@@ -34,6 +34,7 @@
   "OrderComponentTemplate": {},
   "OrderDataSource": {
     "CustomGallerySample": 1,
+    "ImageCollection": 3,
     "ListboxSample": 2,
     "Office365Users": 0
   },
@@ -43,31 +44,31 @@
   "OrderXMLTemplate": {
     "button": 3,
     "camera": 4,
-    "circle": 5,
+    "circle": 6,
     "fluidGrid": 2,
-    "icon": 6,
-    "image": 7,
+    "icon": 7,
+    "image": 5,
     "label": 1,
     "rectangle": 0
   },
   "PublishOrderIndices": {
     "App": 0,
     "Bilde tatt": 0,
-    "Button1": 0,
-    "Camera2": 0,
-    "Canvas2": 0,
-    "DataCard2": 0,
-    "iconCheck1": 0,
-    "iconCircle1": 0,
-    "Image1": 0,
+    "Button1": 9,
+    "Camera2": 10,
+    "Canvas2": 7,
+    "DataCard2": 8,
+    "iconCheck1": 13,
+    "iconCircle1": 12,
+    "Image1": 11,
     "Label1": 2,
     "Label2": 1,
     "Label3": 3,
-    "Label3_1": 3,
-    "LblAppName3": 0,
-    "LblSuccessMsg1": 0,
+    "Label3_1": 4,
+    "LblAppName3": 6,
+    "LblSuccessMsg1": 14,
     "Rectangle1": 0,
-    "RectQuickActionBar3": 0,
+    "RectQuickActionBar3": 5,
     "Screen3": 0,
     "Velkomstskjerm": 0
   },
@@ -87,7 +88,7 @@
       "screen": 2
     },
     "DeserializationLoadTime": 1.4254886,
-    "ErrorCount": 0
+    "ErrorCount": 1
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
