@@ -32,15 +32,20 @@
             Y: =0
             ZIndex: =1
 
-            Icon3 As icon.Camera:
-                Icon: =Icon.Camera
-                X: =219
-                Y: =609
-                ZIndex: =1
+            Button1 As button:
+                Height: =70
+                OnSelect: =ClearCollect(CameraImage,Camera2.Photo); 
+                Size: =24
+                Text: ="Ta bilde"
+                Width: =280
+                X: =174
+                Y: =723
+                ZIndex: =2
 
     Camera2 As camera:
         Camera: =0
-        X: =120
-        Y: =386
+        Height: =656
+        Width: =640
+        Y: =88
         ZIndex: =4
 

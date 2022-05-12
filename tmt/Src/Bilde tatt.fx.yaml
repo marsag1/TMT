@@ -1,0 +1,30 @@
+"'Bilde tatt' As screen.'phoneLayout_Success_ver3.0'":
+
+    iconCircle1 As circle.Circle:
+        X: =255
+        Y: =750
+        ZIndex: =1
+
+    iconCheck1 As icon.Check:
+        Height: =iconCircle1.Height
+        Icon: =Icon.Check
+        PaddingBottom: =Self.PaddingTop
+        PaddingLeft: =Self.PaddingTop
+        PaddingRight: =Self.PaddingTop
+        PaddingTop: =18
+        Width: =iconCircle1.Width
+        X: =255
+        Y: =750
+        ZIndex: =2
+
+    LblSuccessMsg1 As label:
+        Align: =Align.Center
+        AutoHeight: =true
+        Height: =iconCircle1.Height
+        Size: =21
+        Text: ="This was successfully completed"
+        Width: =Parent.Width * 0.75
+        X: =80
+        Y: =922
+        ZIndex: =3
+
