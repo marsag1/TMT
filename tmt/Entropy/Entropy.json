@@ -1,0 +1,72 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Camera2": 41,
+    "Canvas2": 39,
+    "DataCard2": 40,
+    "Icon3": 42,
+    "Label1": 5,
+    "Label2": 6,
+    "Label3": 35,
+    "LblAppName3": 38,
+    "Rectangle1": 7,
+    "RectQuickActionBar3": 37,
+    "Screen3": 36,
+    "Velkomstskjerm": 3
+  },
+  "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "05/12/2022 12:26:29",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "3ad43716-19ea-421f-89ed-0ebf6435d145": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/a4a43e367c8741209babba4bc32e6bb7\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 1,
+    "ListboxSample": 2,
+    "Office365Users": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "camera": 4,
+    "fluidGrid": 2,
+    "icon": 3,
+    "label": 1,
+    "rectangle": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Camera2": 0,
+    "Canvas2": 0,
+    "DataCard2": 0,
+    "Icon3": 0,
+    "Label1": 2,
+    "Label2": 1,
+    "Label3": 3,
+    "LblAppName3": 0,
+    "Rectangle1": 0,
+    "RectQuickActionBar3": 0,
+    "Screen3": 0,
+    "Velkomstskjerm": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0445795,
+    "ControlCount": {
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.1363208,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
