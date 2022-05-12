@@ -34,7 +34,7 @@
 
             Button1 As button:
                 Height: =70
-                OnSelect: =ClearCollect(CameraImage,Camera2.Photo); Navigate('Bilde tatt');
+                OnSelect: =Set(CameraImage, Camera2.Photo); Navigate('Bilde tatt');
                 Size: =24
                 Text: ="Ta bilde"
                 Width: =280

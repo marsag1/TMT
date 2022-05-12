@@ -9,6 +9,7 @@
     "DataCard2": 12,
     "iconCheck1": 20,
     "iconCircle1": 19,
+    "Image1": 22,
     "Label1": 6,
     "Label2": 5,
     "Label3": 7,
@@ -21,7 +22,7 @@
     "Velkomstskjerm": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/12/2022 12:42:23",
+  "HeaderLastSavedDateTimeUTC": "05/12/2022 12:47:46",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "3ad43716-19ea-421f-89ed-0ebf6435d145": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/a4a43e367c8741209babba4bc32e6bb7\""
@@ -32,7 +33,6 @@
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
-    "CameraImage": 3,
     "CustomGallerySample": 1,
     "ListboxSample": 2,
     "Office365Users": 0
@@ -46,6 +46,7 @@
     "circle": 5,
     "fluidGrid": 2,
     "icon": 6,
+    "image": 7,
     "label": 1,
     "rectangle": 0
   },
@@ -58,6 +59,7 @@
     "DataCard2": 0,
     "iconCheck1": 0,
     "iconCircle1": 0,
+    "Image1": 0,
     "Label1": 2,
     "Label2": 1,
     "Label3": 3,
@@ -85,7 +87,7 @@
       "screen": 2
     },
     "DeserializationLoadTime": 1.4254886,
-    "ErrorCount": 0
+    "ErrorCount": 3
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

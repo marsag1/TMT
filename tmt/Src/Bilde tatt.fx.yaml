@@ -28,3 +28,11 @@
         Y: =922
         ZIndex: =3
 
+    Image1 As image:
+        Height: =414
+        Image: =First(CameraImage).Url
+        Width: =480
+        X: =80
+        Y: =180
+        ZIndex: =4
+
